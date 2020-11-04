@@ -1,7 +1,4 @@
 obj
 bin
-appsettings.json
-applicationhost.config
-.dtbcache.v2
-.suo
 *.db
+appsettings.json
